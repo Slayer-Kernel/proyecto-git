@@ -9,3 +9,8 @@ Proyecto final en el que a partir de un repositorio se van a realizar una serie 
 ## Autores
 
 Propiedad de Mastermind, S.L. (http://www.mastermind.ac)
+
+## Student Opinion 
+**Incredible course** — I really like how *Antonio* explains things.  
+Even though it's a topic that's easy to get lost in, he manages to explain it **clearly**.  
+**EXCELLENT!!!**
